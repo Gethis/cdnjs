@@ -20,7 +20,7 @@
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/GethisOrg/KeyderJS.git",
-    "basePath": "",
+    "basePath": "js/",
     "files": [
       "*"
     ]
